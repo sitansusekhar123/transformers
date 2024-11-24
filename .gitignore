@@ -13,3 +13,4 @@ wheels/
 .vscode/
 /documents
 /data
+!/data/*.json
